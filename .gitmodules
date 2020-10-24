@@ -1,0 +1,8 @@
+[submodule "minikube/roles/minikube"]
+	path = minikube/roles/minikube
+	url = https://github.com/slashpai/ansible-minikube.git
+	branch = main
+[submodule "msteams_ansible/roles/prometheus-msteams"]
+	path = msteams_ansible/roles/prometheus-msteams
+	url = https://github.com/slashpai/ansible-prometheus-msteams.git
+	branch = main

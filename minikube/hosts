@@ -1,0 +1,5 @@
+[vagrant]
+192.168.44.100
+
+[local_machine]
+localhost ansible_connection=local ansible_python_interpreter=/home/slashpai/.pyenv/shims/python
